@@ -1,2 +1,2 @@
-# Simple-EDA-on-Titanic-dataset
-This is a simple EDA on titanic dataset 
+# Simple-EDA-on-Netflix-dataset
+This is a simple EDA on Netflix dataset 
